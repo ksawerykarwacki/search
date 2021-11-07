@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.delta
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, elasticsearch, gradle, http-client, java, java-application, jib, junit, kafka, logback, lombok, netty-server, openapi, readme, shade, testcontainers, yaml]
